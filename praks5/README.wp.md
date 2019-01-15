@@ -1,4 +1,4 @@
-### praks5
+# praks5
 
 ## wordpressi installimine
 
@@ -58,7 +58,7 @@ password : "qwerty123"
 
 email : "sander.luts@khk.ee"
 
-# mysql Friendly URL
+### mysql Friendly URL
 
 Logisin wordpressi sisse
 
