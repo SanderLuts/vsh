@@ -138,7 +138,7 @@ database host : "localhost"
 
 Table prefix : "wp_"
 
-# Run installation
+### Run installation
 
 Site title : "vsh-wordpress"
 
