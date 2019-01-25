@@ -8,3 +8,4 @@ Installeeritud paketid : Standard System Utilities; SSH
 
 ISO: https://cdimage.debian.org/cdimage/archive/8.10.0/amd64/iso-cd/
 
+
